@@ -1,13 +1,14 @@
 # Keras ile Derin Öğrenmeye Giriş
 
 
-**Bu eğitim BTK Akademi - 1 Milyon İstihdam Projesi için Hazırlanmıştır.**
+**Bu eğitim BTK Akademi - 1 Milyon İstihdam Projesi için Hazırlanmıştır.** 
+<img align="right" src="https://assets-btkakademi-gov-tr.akamaized.net/api/template/51/client/assets/img/logo.png">
 
 **Eğitime [buradan](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-ogrenmeye-giris-10599#!/about) ulaşabilirsiniz.**
 
 ---
 
-<img align="right" src="https://assets-btkakademi-gov-tr.akamaized.net/api/template/51/client/assets/img/logo.png">
+
 
 Bu eğitimi baştan sona derin öğrenme temelleri üzerine hazırladım. Matematiksel teorik bilgileri uygulamalı olarak ele alacağız. Python programlama dili ve Keras derin öğrenme kütüphanesini araç olarak kullanacağımız bu eğitimde uygulamaları bulut üzerinde gerçekleştirmenin kolaylığından da faydalanacağız. Eğitimin sonunda bilgisayarlı görü, dizi modeller, üretici modeller ile ilgili temeller uygulayabilir olacaksınız. Ayrıca derin öğrenme modellerinin iyileştirilmesi için bilinmesi gereken incelikler de birlikte gözden geçireceğiz. Eğitimin sonunda derin öğrenmenin limitleri, geleceği ve topluma etkisi hakkında da vizyon sahibi olacağız. Unutmayalım yapay zeka konuları hemen her alanda uygulanabilecek disiplinler arası işbirliği gerektiren bir çalışma alanıdır. Bu yüzden sizde kendi projelerinizle kariyer hayatınızda yeni bir sayfa açmaya hazır olun. O halde kolları sıvayalım. 
 
