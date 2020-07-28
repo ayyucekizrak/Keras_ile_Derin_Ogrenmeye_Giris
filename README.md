@@ -4,7 +4,7 @@
 **Bu eğitim BTK Akademi - 1 Milyon İstihdam Projesi için Hazırlanmıştır.** 
 <img align="right" src="https://assets-btkakademi-gov-tr.akamaized.net/api/template/51/client/assets/img/logo.png">
 
-## Eğitime [buradan](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-ogrenmeye-giris-10599#!/about) ulaşabilirsiniz.
+###  Eğitime [buradan](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-ogrenmeye-giris-10599#!/about) ulaşabilirsiniz.
 
 
 ### Eğitimin Amacı:
@@ -118,17 +118,11 @@ Sözlük İngilizce-Türkçe ve Türkçe-İngilizce olarak arama yapmaya uygun �
 ### Tavsiye Edilen/Yardımcı Kaynaklar:
 
 1-	[Yapay Zekâ ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/@ayyucekizrak/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1)
-
 2-	[Stanford Üniversitesi Derin Öğrenme Ders Notları - Türkçe](https://stanford.edu/~shervine/l/tr/teaching/)
-
 3-	[Yapay Zekâ Araştırma İnisiyatifi – Türkçe Kaynaklar](https://yz-ai.github.io/)
-
 4-	[Kapsamlı Derin Öğrenme Rehberi](https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi  )
-
 5-	[Derin Öğrenme Kitabı](http://www.deeplearningbook.org/)
-
 6-	[Keras Dokümantasyonu](https://keras.io/)
-
 7-	[Python ile Derin Öğrenme](http://buzdagiyayinevi.com/python-ile-derin-ogrenme/ )
 
 
