@@ -5,8 +5,8 @@
 - Pekiştirmeli Öğrenme
 - Yapay Öğrenme Temelleri ve Düzenlileştirme Yaklaşımları
 - Eğitim, Doğrulama, Test Kümelerinin Oluşturulması ve Başarı Ölçütlerinin Belirlenmesi
-- Veri Artırma
-- Aşırı Uydurma, Az Uydurma ve Erken Durdurma
-- Aktivasyon Fonksiyonları
+- Veri Artırma [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_1.ipynb)
+- [Aşırı Uydurma, Az Uydurma ve Erken Durdurma](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping)) (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping)/AsiriUydurma_Overfitting_v1.ipynb)
+- [Aktivasyon Fonksiyonları](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Aktivasyon_Fonksiyonlarinin_Karsilastirilmasi) (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping)/AsiriUydurma_Overfitting_v1.ipynb)
 - Optimizasyon Algoritmalarının Belirlenmesi
 - Aktarımlı Öğrenme, Çoklu-Görev Öğrenme
