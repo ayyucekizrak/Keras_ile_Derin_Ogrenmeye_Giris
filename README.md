@@ -118,6 +118,7 @@ Sözlük İngilizce-Türkçe ve Türkçe-İngilizce olarak arama yapmaya uygun �
 ### Tavsiye Edilen/Yardımcı Kaynaklar:
 
 1-	[Yapay Zekâ ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/@ayyucekizrak/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1)
+
 2-	[Stanford Üniversitesi Derin Öğrenme Ders Notları - Türkçe](https://stanford.edu/~shervine/l/tr/teaching/)
 
 3-	[Yapay Zekâ Araştırma İnisiyatifi – Türkçe Kaynaklar](https://yz-ai.github.io/)
