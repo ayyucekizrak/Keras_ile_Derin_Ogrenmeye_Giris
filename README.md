@@ -7,15 +7,13 @@
 ## Eğitime [buradan](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-ogrenmeye-giris-10599#!/about) ulaşabilirsiniz.
 
 
----
-
-Eğitimin Amacı:
+### Eğitimin Amacı:
 
 Bu eğitim baştan sona derin öğrenme temelleri üzerine hazırlanmıştır. Matematiksel teorik bilgileri uygulamalı olarak ele alan bir eğitimdir. Python programlama dili ve Keras derin öğrenme kütüphanesini araç olarak kullanan bu eğitimde uygulamaları bulut üzerinde gerçekleştirmenin kolaylığından da faydalanılacaktır. Eğitimin sonunda bilgisayarlı görü, dizi modeller, üretici modeller ile ilgili temeller uygulayabilir olunacaktır. Ayrıca derin öğrenme modellerinin iyileştirilmesi için bilinmesi gereken incelikler de dersin kapsamındadır. Kapanışta derin öğrenmenin limitleri, geleceği ve topluma etkisi hakkında da vizyon çizilmektedir. 
 
 ---
 
-Eğitim Gereksinimleri (Ön Koşul Beceriler):
+### Eğitim Gereksinimleri (Ön Koşul Beceriler):
 
 - Temel matematik bilgisi
 - Temel lineer cebir ve istatistik bilgisi
@@ -24,7 +22,7 @@ Eğitim Gereksinimleri (Ön Koşul Beceriler):
 
 ---
 
-Kursu Kimler Almalı:
+### Kursu Kimler Almalı:
 
 - Yapay zekâ temellerini öğrenmek isteyenler
 - Derin öğrenme yöntemlerini öğrenmek isteyenler
