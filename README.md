@@ -117,6 +117,42 @@ Sözlük İngilizce-Türkçe ve Türkçe-İngilizce olarak arama yapmaya uygun �
 
 ---
 
+### Tavsiye Edilen/Yardımcı Kaynaklar:
+
+1-	[Yapay Zekâ ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/@ayyucekizrak/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1)
+2-	[Stanford Üniversitesi Derin Öğrenme Ders Notları - Türkçe](https://stanford.edu/~shervine/l/tr/teaching/)
+3-	[Yapay Zekâ Araştırma İnisiyatifi – Türkçe Kaynaklar](https://yz-ai.github.io/)
+4-	[Kapsamlı Derin Öğrenme Rehberi](https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi  )
+5-	[Derin Öğrenme Kitabı](http://www.deeplearningbook.org/)
+6-	[Keras Dokümantasyonu](https://keras.io/)
+7-	[Python ile Derin Öğrenme](http://buzdagiyayinevi.com/python-ile-derin-ogrenme/ )
+
+---
+
+### Atıf Dosya Bağlantıları:
+
+1.	[Temel Kaynak](http://buzdagiyayinevi.com/python-ile-derin-ogrenme/ )
+2.	[Genel Kaynak](http://www.deeplearningbook.org/ )
+3.	[Genel Kaynak](https://www.coursera.org/deeplearning-ai )
+4.	[1_Motivasyon ve Derin Öğrenmeye Giriş](https://medium.com/deep-learning-turkiye/derin-ogrenme-uygulamalarinda-en-sik-kullanilan-hiper-parametreler-ece8e9125c4 )
+5.	[2_Derin Öğrenmenin Matematiksel Temelleri](https://ruder.io/optimizing-gradient-descent/)
+6.	[4_State of the Art Modellerin İncelenmesi](http://yann.lecun.com/exdb/lenet/ )
+7.	https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf [4_State of the Art Modellerin İncelenmesi]
+8.	[4_State of the Art Modellerin İncelenmesi](https://arxiv.org/pdf/1409.1556.pdf )
+9.	[4_State of the Art Modellerin İncelenmesi](https://arxiv.org/abs/1512.03385)
+10.	[4_State of the Art Modellerin İncelenmesi](https://arxiv.org/abs/1312.4400)
+11.	[4_State of the Art Modellerin İncelenmesi](https://arxiv.org/abs/1409.4842)
+12.	[5_Aktivasyon Fonksiyonları](https://medium.com/@ayyucekizrak/derin-%C3%B6%C4%9Frenme-i%C3%A7in-aktivasyon-fonksiyonlar%C4%B1n%C4%B1n-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1r%C4%B1lmas%C4%B1-cee17fd1d9cd)
+13.	https://www.slideshare.net/albertspijkers/martin-gorner-tensorflow-and-deep-learning-without-a-phd [5_Yapay Öğrenme Temelleri ve Düzenlileştirme Yaklaşımları]
+14.	[5_Optimizasyon Algoritmalarının Belirlenmesi](https://www.benfrederickson.com/numerical-optimization/ )
+15.	[6_Evrişimli Sinir Ağları](http://cs231n.stanford.edu/)
+16.	[7_Yinelemeli Sinir Ağları](https://arxiv.org/abs/1412.3555 )
+17.	[7_Yinelemeli Sinir Ağları](https://arxiv.org/abs/1409.1259 )
+18.	[7_Yinelemeli Sinir Ağları](https://www.bioinf.jku.at/publications/older/2604.pdf )
+19.	[7_Yinelemeli Sinir Ağları])http://karpathy.github.io/2015/05/21/rnn-effectiveness/ =
+20.	[8_Üretici Çekişmeli Ağlar](https://arxiv.org/abs/1406.2661 )
+21.	[8_Üretici Çekişmeli Ağlar](https://arxiv.org/abs/1511.06434 )
+22.	[8_Üretici Çekişmeli Ağlar](https://poloclub.github.io/ganlab/ )
 
 
 
