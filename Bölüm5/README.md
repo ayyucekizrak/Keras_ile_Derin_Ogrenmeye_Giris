@@ -9,5 +9,7 @@
 - [Aşırı Uydurma, Az Uydurma ve Erken Durdurma](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping))  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping)/AsiriUydurma_Overfitting_v1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/blob/master/Bölüm5/AsiriUydurma_Overfitting_v2.ipynb)
 - [Aktivasyon Fonksiyonları](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Aktivasyon_Fonksiyonlarinin_Karsilastirilmasi) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/blob/master/Bölüm5/Aktivasyon_Fonksiyonları_Karşılaştırması.ipynb)
 - Optimizasyon Algoritmalarının Belirlenmesi
-- Aktarımlı Öğrenme, Çoklu-Görev Öğrenme
-Bölüm5/AsiriUydurma_Overfitting_v2.ipynb
+- Aktarımlı Öğrenme, Çoklu-Görev Öğrenme [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/blob/master/B%C3%B6l%C3%BCm5/Aktar%C4%B1ml%C4%B1Ogrenme_CokluGorevOgrenme.ipynb)
+
+
+https://github.com/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/blob/master/B%C3%B6l%C3%BCm5/Aktar%C4%B1ml%C4%B1Ogrenme_CokluGorevOgrenme.ipynb
