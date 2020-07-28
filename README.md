@@ -4,7 +4,8 @@
 **Bu eğitim BTK Akademi - 1 Milyon İstihdam Projesi için Hazırlanmıştır.** 
 <img align="right" src="https://assets-btkakademi-gov-tr.akamaized.net/api/template/51/client/assets/img/logo.png">
 
-**Eğitime [buradan](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-ogrenmeye-giris-10599#!/about) ulaşabilirsiniz.**
+## Eğitime [buradan](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-ogrenmeye-giris-10599#!/about) ulaşabilirsiniz.
+
 
 ---
 
