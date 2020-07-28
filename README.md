@@ -21,31 +21,27 @@ Bu eğitimi baştan sona derin öğrenme temelleri üzerine hazırladım. Matema
 - Veri Nedir ve Yapay Zekâ ile İlişkisi
 - Derin Öğrenme Nedir ve Terminolojisi
 
-**BÖLÜM 2: Derin Öğrenme Alet Çantası (Uygulamalı)** 
-
+**[BÖLÜM 2: Derin Öğrenme Alet Çantası (Uygulamalı)](https://github.com/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/tree/master/B%C3%B6l%C3%BCm2)** 
 - Derin Öğrenmeyi Başarılı Yapan Farkları
 - Derin Öğrenme için Donanım, Programlama Dilleri ve Kütüphaneler
 - Derin Öğrenme için Veri ve Algoritmalar
 - Derin Öğrenme Uygulama Ortamları
 
-**BÖLÜM 3: Derin Öğrenmenin Matematiksel Temelleri (Uygulamalı)** 
-
+**[BÖLÜM 3: Derin Öğrenmenin Matematiksel Temelleri (Uygulamalı)](https://github.com/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/tree/master/B%C3%B6l%C3%BCm3)** 
 - Vektörler / Matrisler / Tensörler
 - Türev ve Gerekliliği
 - Stokastik Gradyan İniş ve Optimizasyon
 - Zincir Kuralı ve Geriye Yayılım Algoritması
 - MNIST Veri Kümesinde Sinir Ağı Modeli Oluşturma ve Eğitme 
 
-**BÖLÜM 4: Derin Sinir Ağları (Uygulamalı)** 
-
+**[BÖLÜM 4: Derin Sinir Ağları (Uygulamalı)](https://github.com/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/tree/master/B%C3%B6l%C3%BCm4)** 
 - Katmanlar
 - Modeller
 - Kayıp Fonksiyonları
 - Optimizasyon Algoritmaları
 - State-of-the-Art Modellerin İncelenmesi
 
-**BÖLÜM 5: Yapay Öğrenme Temelleri ve Düzenlileştirme Yaklaşımları (Uygulamalı)**
-
+**[BÖLÜM 5: Yapay Öğrenme Temelleri ve Düzenlileştirme Yaklaşımları (Uygulamalı)](https://github.com/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/tree/master/B%C3%B6l%C3%BCm5)**
 - Denetimli Öğrenme
 - Denetimsiz Öğrenme
 - Yarı-Denetimli Öğrenme
@@ -58,23 +54,21 @@ Bu eğitimi baştan sona derin öğrenme temelleri üzerine hazırladım. Matema
 - Optimizasyon Algoritmalarının Belirlenmesi
 - Aktarımlı Öğrenme, Çoklu-Görev Öğrenme 
 
-**BÖLÜM 6: Evrişimli Sinir Ağları (Uygulamalı)**
+**[BÖLÜM 6: Evrişimli Sinir Ağları (Uygulamalı)](https://github.com/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/tree/master/B%C3%B6l%C3%BCm6)**
 - Evrişimli Sinir Ağı Kullanım Alanları
 - Evrişimli Sinir Ağı Modelleme Adımları
 - Evrişimli Sinir Ağı Eğitme, Sonuçları Değerlendirme ve Görselleştirme
 - Nesne Tanıma Örnek Uygulamalar
 - Yüz Görüntülerin Duygu Tanıma Örnek Uygulamalar
 
-**BÖLÜM 7: Yinelemeli Sinir Ağları (Uygulamalı)**
-
+**[BÖLÜM 7: Yinelemeli Sinir Ağları (Uygulamalı)](https://github.com/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/tree/master/B%C3%B6l%C3%BCm7)**
 - Yinelemeli Sinir Ağları Kullanım Alanları
 - Dizi Modellerin Oluşturulması
 - Uzun-Kısa Vadeli Bellek Modeller 
 - Basit Yinelemeli Sinir Ağı Oluşturma
 - IMDB Verisinde RNN ve LSTM Uygulaması
 
-**BÖLÜM 8: Üretici Modeller (Uygulamalı)**
-
+**[BÖLÜM 8: Üretici Modeller (Uygulamalı)](https://github.com/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/tree/master/B%C3%B6l%C3%BCm8)**
 - Üretici Modellerin Kullanım Alanları
 - DeepDream 
 - Stil Aktarımı
@@ -82,8 +76,7 @@ Bu eğitimi baştan sona derin öğrenme temelleri üzerine hazırladım. Matema
 - Üretici Çekişmeli Ağlar
 - Sentetik Veri Üretimi Uygulamaları
 
-**BÖLÜM 9: İleri Seviye Derin Öğrenme Uygulamaları ve Anahtar Kavramlar (Uygulamalı)**
-
+**[BÖLÜM 9: İleri Seviye Derin Öğrenme Uygulamaları ve Anahtar Kavramlar (Uygulamalı)](https://github.com/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/tree/master/B%C3%B6l%C3%BCm9)**
 - Keras API Kullanımı
 - TensorBoard Görselleştirme Kütüphanesinin Kullanımı
 - Derin Öğrenme için Kilit Teknolojiler
