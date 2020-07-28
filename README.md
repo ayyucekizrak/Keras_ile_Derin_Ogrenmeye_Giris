@@ -119,10 +119,15 @@ Sözlük İngilizce-Türkçe ve Türkçe-İngilizce olarak arama yapmaya uygun �
 
 1-	[Yapay Zekâ ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/@ayyucekizrak/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1)
 2-	[Stanford Üniversitesi Derin Öğrenme Ders Notları - Türkçe](https://stanford.edu/~shervine/l/tr/teaching/)
+
 3-	[Yapay Zekâ Araştırma İnisiyatifi – Türkçe Kaynaklar](https://yz-ai.github.io/)
+
 4-	[Kapsamlı Derin Öğrenme Rehberi](https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi  )
+
 5-	[Derin Öğrenme Kitabı](http://www.deeplearningbook.org/)
+
 6-	[Keras Dokümantasyonu](https://keras.io/)
+
 7-	[Python ile Derin Öğrenme](http://buzdagiyayinevi.com/python-ile-derin-ogrenme/ )
 
 
