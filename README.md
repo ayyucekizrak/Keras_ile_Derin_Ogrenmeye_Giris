@@ -9,11 +9,30 @@
 
 ---
 
+Eğitimin Amacı:
 
-
-Bu eğitimi baştan sona derin öğrenme temelleri üzerine hazırladım. Matematiksel teorik bilgileri uygulamalı olarak ele alacağız. Python programlama dili ve Keras derin öğrenme kütüphanesini araç olarak kullanacağımız bu eğitimde uygulamaları bulut üzerinde gerçekleştirmenin kolaylığından da faydalanacağız. Eğitimin sonunda bilgisayarlı görü, dizi modeller, üretici modeller ile ilgili temeller uygulayabilir olacaksınız. Ayrıca derin öğrenme modellerinin iyileştirilmesi için bilinmesi gereken incelikler de birlikte gözden geçireceğiz. Eğitimin sonunda derin öğrenmenin limitleri, geleceği ve topluma etkisi hakkında da vizyon sahibi olacağız. Unutmayalım yapay zeka konuları hemen her alanda uygulanabilecek disiplinler arası işbirliği gerektiren bir çalışma alanıdır. Bu yüzden sizde kendi projelerinizle kariyer hayatınızda yeni bir sayfa açmaya hazır olun. O halde kolları sıvayalım. 
+Bu eğitim baştan sona derin öğrenme temelleri üzerine hazırlanmıştır. Matematiksel teorik bilgileri uygulamalı olarak ele alan bir eğitimdir. Python programlama dili ve Keras derin öğrenme kütüphanesini araç olarak kullanan bu eğitimde uygulamaları bulut üzerinde gerçekleştirmenin kolaylığından da faydalanılacaktır. Eğitimin sonunda bilgisayarlı görü, dizi modeller, üretici modeller ile ilgili temeller uygulayabilir olunacaktır. Ayrıca derin öğrenme modellerinin iyileştirilmesi için bilinmesi gereken incelikler de dersin kapsamındadır. Kapanışta derin öğrenmenin limitleri, geleceği ve topluma etkisi hakkında da vizyon çizilmektedir. 
 
 ---
+
+Eğitim Gereksinimleri (Ön Koşul Beceriler):
+
+- Temel matematik bilgisi
+- Temel lineer cebir ve istatistik bilgisi
+- Temel Python programlama dili bilgisi
+- Temel makine öğrenmesi bilgisi
+
+---
+
+Kursu Kimler Almalı:
+
+- Yapay zekâ temellerini öğrenmek isteyenler
+- Derin öğrenme yöntemlerini öğrenmek isteyenler
+- Python programlama dili ve Keras kütüphanesini kullanarak derin öğrenme modelleri ile çalışmak isteyenler
+
+---
+
+## EĞİTİM İÇERİĞİ
 
 **BÖLÜM 1: Motivasyon ve Derin Öğrenmeye Giriş** 
 
