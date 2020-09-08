@@ -35,10 +35,10 @@ Bu eğitim baştan sona derin öğrenme temelleri üzerine hazırlanmıştır. M
 
 **BÖLÜM 1: Motivasyon ve Derin Öğrenmeye Giriş** 
 
-- Motivasyon
-- Yapay Zekâ Nedir, Tarihçesi ve Kilometre Taşları
-- Veri Nedir ve Yapay Zekâ ile İlişkisi
-- Derin Öğrenme Nedir ve Terminolojisi
+- [Motivasyon](https://www.btkakademi.gov.tr/portal/course/deliver/keras-ile-derin-ogrenmeye-giris-10599?selectCourseId=10964#!/play)
+- [Yapay Zekâ Nedir, Tarihçesi ve Kilometre Taşları](https://www.btkakademi.gov.tr/portal/course/deliver/keras-ile-derin-ogrenmeye-giris-10599?selectCourseId=10964#!/play)
+- [Veri Nedir ve Yapay Zekâ ile İlişkisi](https://www.btkakademi.gov.tr/portal/course/deliver/keras-ile-derin-ogrenmeye-giris-10599?selectCourseId=10964#!/play)
+- [Derin Öğrenme Nedir ve Terminolojisi](https://www.btkakademi.gov.tr/portal/course/deliver/keras-ile-derin-ogrenmeye-giris-10599?selectCourseId=10964#!/play)
 
 **[BÖLÜM 2: Derin Öğrenme Alet Çantası (Uygulamalı)](https://github.com/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/tree/master/B%C3%B6l%C3%BCm2)** 
 - Derin Öğrenmeyi Başarılı Yapan Farkları
