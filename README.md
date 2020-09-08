@@ -1,7 +1,7 @@
 # Keras ile Derin Öğrenmeye Giriş
 
 
-**Bu eğitim [BTK Akademi](https://www.btkakademi.gov.tr/portal/cms/hakkimizda) - [1 Milyon İstihdam Projesi](https://1milyonistihdam.hmb.gov.tr/) için [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/) tarafından Hazırlanmıştır.** 
+**Bu eğitim [BTK Akademi](https://www.btkakademi.gov.tr/portal/cms/hakkimizda) - [1 Milyon İstihdam Projesi](https://1milyonistihdam.hmb.gov.tr/) için [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/) tarafından hazırlanmıştır.** 
 <img align="right" src="https://assets-btkakademi-gov-tr.akamaized.net/api/template/51/client/assets/img/logo.png">
 
 ###  Eğitime [buradan](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-ogrenmeye-giris-10599#!/about) ulaşabilirsiniz.
