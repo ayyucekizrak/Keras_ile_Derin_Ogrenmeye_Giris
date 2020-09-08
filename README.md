@@ -33,7 +33,7 @@ Bu eğitim baştan sona derin öğrenme temelleri üzerine hazırlanmıştır. M
 
 ## EĞİTİM İÇERİĞİ
 
-**[BÖLÜM 1: Motivasyon ve Derin Öğrenmeye Giriş]((https://www.btkakademi.gov.tr/portal/course/deliver/keras-ile-derin-ogrenmeye-giris-10599?selectCourseId=10964#!/play)** 
+**[BÖLÜM 1: Motivasyon ve Derin Öğrenmeye Giriş](https://www.btkakademi.gov.tr/portal/course/deliver/keras-ile-derin-ogrenmeye-giris-10599?selectCourseId=10964#!/play)** 
 
 - Motivasyon
 - Yapay Zekâ Nedir, Tarihçesi ve Kilometre Taşları 
