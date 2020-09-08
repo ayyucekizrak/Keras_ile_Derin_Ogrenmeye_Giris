@@ -13,7 +13,7 @@
 :grin: **Peki kamera arkası videosuna göz atmak ister misiniz? "Geçmiş olsun"**
 <blockquote class="twitter-tweet" data-lang="tr" data-theme="dark"><p lang="tr" dir="ltr">Eğitmenlerimizle Kamera Arkası Vol2 🎞️📽️🎬<br>.<a href="https://twitter.com/ayyucekizrak?ref_src=twsrc%5Etfw">@ayyucekizrak</a><a href="https://twitter.com/EnginDemirog?ref_src=twsrc%5Etfw">@EnginDemirog</a><a href="https://twitter.com/celilcan?ref_src=twsrc%5Etfw">@celilcan</a><br>. <a href="https://twitter.com/hashtag/kameraarkas%C4%B1?src=hash&amp;ref_src=twsrc%5Etfw">#kameraarkası</a> <a href="https://twitter.com/hashtag/backstage?src=hash&amp;ref_src=twsrc%5Etfw">#backstage</a> <a href="https://twitter.com/hashtag/btkakademi?src=hash&amp;ref_src=twsrc%5Etfw">#btkakademi</a> <a href="https://twitter.com/hashtag/onlinee%C4%9Fitim?src=hash&amp;ref_src=twsrc%5Etfw">#onlineeğitim</a> <a href="https://twitter.com/hashtag/1milyonistihdam?src=hash&amp;ref_src=twsrc%5Etfw">#1milyonistihdam</a><a href="https://twitter.com/1milyonistihdam?ref_src=twsrc%5Etfw">@1milyonistihdam</a> <a href="https://t.co/GfoHtNMqS3">
   
-  pic.twitter.com/GfoHtNMqS3</a></p>&mdash; BTK Akademi (@BTKAkademi) <a href="https://twitter.com/BTKAkademi/status/1302558920859414528?ref_src=twsrc%5Etfw">6 Eylül 2020</a></blockquote> 
+  [](pic.twitter.com/GfoHtNMqS3)</a></p>&mdash; BTK Akademi (@BTKAkademi) <a href="https://twitter.com/BTKAkademi/status/1302558920859414528?ref_src=twsrc%5Etfw">6 Eylül 2020</a></blockquote> 
 
 ---
 
