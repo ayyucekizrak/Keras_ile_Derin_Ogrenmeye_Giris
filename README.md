@@ -32,7 +32,7 @@ Bu eğitim baştan sona derin öğrenme temelleri üzerine hazırlanmıştır. M
 ---
 
 
-Eğitim için sıkça sorulan sorular ve yanıtlarına [buradan](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-ogrenmeye-giris-10599#!/faq) ulaşabilirsiniz. Ayrıca konuya derinlemesine dalmak için daha fazla soru ve cevap için [Yapay Zekâ ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/@ayyucekizrak/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1) yazıma da göz atabilirsiniz.
+Eğitim için sıkça sorulan sorular (SSS) ve yanıtlarına [buradan](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-ogrenmeye-giris-10599#!/faq) ulaşabilirsiniz. Ayrıca konuya derinlemesine dalmak için daha fazla soru ve cevap için [Yapay Zekâ ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/@ayyucekizrak/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1) yazıma da göz atabilirsiniz.
 
 ---
 
